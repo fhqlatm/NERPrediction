@@ -1,0 +1,11 @@
+[
+	"I-PER",
+	"I-MISC",
+	"B-MISC",
+	"I-ORG",
+	"I-LOC",
+	"B-PER",
+	"O",
+	"B-LOC",
+	"B-ORG"
+]
