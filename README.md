@@ -1,4 +1,4 @@
-# ner_tagging 
+# NER Tag Prediction 
 
 ## conda environment
 ```conda env create -f environment.yml```
